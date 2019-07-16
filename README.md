@@ -8,7 +8,7 @@ We gathered pre-existed 16S paddy soil metagenome amplicon sequences and 16S ric
 
 # Technical Overview
 
-We carried out the metagenome analysis using QIIME2 (v. 2018.06) on Ubuntu 16.04 LTS. Our pipe are written by QIIME2 2018.06 version so it could make an error if you use another version of QIIME2. 
+We carried out the metagenome analysis using QIIME2 (v. 2018.06) on Ubuntu 16.04 LTS or 18.04 LTS. Our pipe are written by QIIME2 2018.06 version so it could make an error if you use another version of QIIME2. 
 
 
 # Before running the pipe
