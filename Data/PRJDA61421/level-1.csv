@@ -1,0 +1,5 @@
+index,D_0__Bacteria,Unassigned,LibraryName,LibraryStrategy,LibrarySelection,Sample,ScientificName,Nitrogen
+DRR000838,432.0,3.0,16S rRNA gene,AMPLICON,PCR,DRS000529,rhizosphere metagenome,Standard_30kg
+DRR000837,2593.0,5.0,16S rRNA gene,AMPLICON,PCR,DRS000516,rhizosphere metagenome,Low_0kg
+DRR000839,1078.0,0.0,16S rRNA gene,AMPLICON,PCR,DRS000530,soil metagenome,Low_0kg
+DRR000840,719.0,0.0,16S rRNA gene,AMPLICON,PCR,DRS000531,soil metagenome,Standard_30kg

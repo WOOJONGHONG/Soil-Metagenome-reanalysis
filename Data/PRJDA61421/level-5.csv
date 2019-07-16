@@ -1,0 +1,5 @@
+index,D_0__Bacteria;D_1__Actinobacteria;D_2__Actinobacteria;D_3__Corynebacteriales;D_4__Nocardiaceae,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Chloroplast;D_4__Daucus carota subsp. sativus,D_0__Bacteria;D_1__Proteobacteria;D_2__Alphaproteobacteria;D_3__Rhizobiales;D_4__Rhizobiaceae,D_0__Bacteria;D_1__Proteobacteria;D_2__Gammaproteobacteria;D_3__Pseudomonadales;D_4__Pseudomonadaceae,Unassigned;__;__;__;__,LibraryName,LibraryStrategy,LibrarySelection,Sample,ScientificName,Nitrogen
+DRR000838,338.0,43.0,48.0,3.0,3.0,16S rRNA gene,AMPLICON,PCR,DRS000529,rhizosphere metagenome,Standard_30kg
+DRR000837,2184.0,108.0,287.0,14.0,5.0,16S rRNA gene,AMPLICON,PCR,DRS000516,rhizosphere metagenome,Low_0kg
+DRR000839,1067.0,4.0,1.0,6.0,0.0,16S rRNA gene,AMPLICON,PCR,DRS000530,soil metagenome,Low_0kg
+DRR000840,706.0,7.0,2.0,4.0,0.0,16S rRNA gene,AMPLICON,PCR,DRS000531,soil metagenome,Standard_30kg

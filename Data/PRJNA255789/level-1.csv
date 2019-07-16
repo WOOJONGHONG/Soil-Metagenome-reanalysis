@@ -1,0 +1,494 @@
+index,D_0__Archaea,D_0__Bacteria,Library_Name,SRA_Sample,env_biome,env_feature,env_material,host
+SRR1523634,34.0,7192.0,FieldRun1,SRS664834,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1523635,111.0,29889.0,FieldRun1,SRS664905,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1523636,112.0,25685.0,FieldRun1,SRS664859,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1523640,63.0,11969.0,FieldRun1,SRS664860,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1523641,167.0,32508.0,FieldRun1,SRS664877,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1523649,57.0,21459.0,FieldRun1,SRS664878,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524309,38.0,21946.0,FieldRun1,SRS664901,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524310,192.0,23440.0,FieldRun1,SRS664902,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524311,241.0,24165.0,FieldRun1,SRS664903,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524312,107.0,18185.0,FieldRun1,SRS664904,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524331,125.0,24239.0,FieldRun1,SRS664906,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524333,187.0,22029.0,GHRun1,SRS664894,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524334,112.0,33152.0,GHRun1,SRS664896,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524335,110.0,27148.0,GHRun1,SRS664897,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524336,99.0,25197.0,FieldRun1,SRS664907,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524337,68.0,6919.0,FieldRun1,SRS664909,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524338,31.0,24394.0,FieldRun1,SRS664910,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524339,248.0,37206.0,FieldRun1,SRS664912,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524340,345.0,28258.0,FieldRun1,SRS664914,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524341,95.0,22142.0,FieldRun1,SRS664915,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524342,337.0,31101.0,FieldRun1,SRS664916,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524343,56.0,18688.0,FieldRun1,SRS664917,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524344,23.0,20984.0,FieldRun1,SRS664918,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524345,165.0,28648.0,FieldRun1,SRS664919,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524346,234.0,24664.0,FieldRun1,SRS664920,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524347,76.0,12299.0,FieldRun1,SRS664921,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524348,139.0,24294.0,FieldRun1,SRS664922,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524349,169.0,34598.0,FieldRun1,SRS664923,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524350,21.0,10930.0,FieldRun1,SRS664924,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524351,147.0,28705.0,FieldRun1,SRS664925,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524352,78.0,19508.0,FieldRun1,SRS664926,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524353,126.0,26985.0,FieldRun1,SRS664927,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524354,172.0,27070.0,FieldRun1,SRS664928,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524355,128.0,26600.0,FieldRun1,SRS664929,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524356,27.0,23014.0,FieldRun1,SRS664931,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524358,86.0,18263.0,FieldRun1,SRS664932,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524359,8.0,31174.0,GHRun1,SRS664898,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524360,241.0,23659.0,FieldRun1,SRS664933,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524361,68.0,23494.0,FieldRun1,SRS664934,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524362,253.0,20339.0,FieldRun1,SRS664935,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524363,578.0,113138.0,GHRun1,SRS664900,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524364,128.0,25992.0,GHRun1,SRS664911,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524365,283.0,21051.0,FieldRun1,SRS664936,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524366,113.0,63164.0,GHRun1,SRS664913,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524367,173.0,18864.0,FieldRun1,SRS664937,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524368,8.0,38946.0,GHRun1,SRS664978,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524369,179.0,19928.0,FieldRun1,SRS664938,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524370,268.0,22798.0,FieldRun1,SRS664939,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524371,1.0,40005.0,GHRun1,SRS664981,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524380,168.0,23091.0,FieldRun1,SRS664940,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524382,333.0,35545.0,GHRun1,SRS664983,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524383,225.0,25410.0,FieldRun1,SRS664941,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524384,149.0,27294.0,GHRun1,SRS664989,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524385,148.0,21000.0,FieldRun1,SRS664950,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524386,43.0,41721.0,GHRun1,SRS664993,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524388,153.0,22538.0,FieldRun1,SRS664951,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524389,8.0,36433.0,GHRun1,SRS664994,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524390,64.0,19628.0,FieldRun1,SRS664952,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524391,242.0,33874.0,GHRun1,SRS664997,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524392,149.0,18298.0,FieldRun1,SRS664953,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524393,187.0,25847.0,GHRun1,SRS664999,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524394,42.0,14966.0,FieldRun1,SRS664954,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524395,103.0,37909.0,GHRun1,SRS665003,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524396,844.0,33320.0,FieldRun1,SRS664955,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524397,550.0,31917.0,FieldRun1,SRS664956,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524398,17.0,34158.0,GHRun1,SRS665006,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524399,259.0,16042.0,FieldRun1,SRS664957,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524400,1087.0,34243.0,FieldRun1,SRS664958,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524401,172.0,24818.0,GHRun1,SRS665008,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524402,317.0,26647.0,FieldRun1,SRS664959,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524403,295.0,35284.0,GHRun1,SRS665011,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524404,672.0,26529.0,FieldRun1,SRS664960,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524405,198.0,44616.0,GHRun1,SRS665013,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524406,515.0,27127.0,FieldRun1,SRS664961,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524407,12.0,27820.0,GHRun1,SRS665016,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524408,315.0,16101.0,FieldRun1,SRS664962,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524409,140.0,32554.0,GHRun1,SRS665019,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524410,405.0,17624.0,FieldRun1,SRS664963,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524411,29.0,16770.0,GHRun1,SRS665021,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524412,355.0,17741.0,FieldRun1,SRS664964,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524413,16.0,20942.0,GHRun1,SRS665024,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524414,399.0,28293.0,FieldRun1,SRS664965,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524415,191.0,22405.0,GHRun1,SRS665026,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524416,83.0,21388.0,FieldRun1,SRS664966,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524417,135.0,23937.0,GHRun1,SRS665028,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524418,676.0,21128.0,FieldRun1,SRS664967,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524419,3.0,2311.0,GHRun1,SRS665031,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524420,440.0,25445.0,FieldRun1,SRS664968,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524421,30.0,51272.0,GHRun1,SRS665033,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524422,449.0,28390.0,FieldRun1,SRS664969,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524423,70.0,22655.0,GHRun1,SRS665036,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524424,1123.0,30667.0,FieldRun1,SRS664970,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524425,103.0,18846.0,GHRun1,SRS665038,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524426,402.0,25690.0,FieldRun1,SRS664971,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524427,68.0,18799.0,GHRun1,SRS665041,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524428,581.0,29063.0,FieldRun1,SRS664972,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524429,9.0,41437.0,GHRun1,SRS665043,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524430,1244.0,26247.0,FieldRun1,SRS664973,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524431,330.0,40863.0,GHRun1,SRS665044,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524432,158.0,25107.0,GHRun1,SRS665046,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524433,484.0,19453.0,FieldRun1,SRS664974,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524434,58.0,22053.0,GHRun1,SRS665049,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524435,118.0,18462.0,FieldRun1,SRS664975,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524436,617.0,24151.0,FieldRun1,SRS664976,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524437,4.0,31045.0,GHRun1,SRS665051,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524438,410.0,19746.0,FieldRun1,SRS664977,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524439,239.0,24529.0,GHRun1,SRS665055,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524440,184.0,29252.0,GHRun1,SRS665057,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524441,12.0,13138.0,FieldRun1,SRS664979,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524442,313.0,24293.0,FieldRun1,SRS664980,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524443,105.0,22935.0,GHRun1,SRS665059,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524444,226.0,29011.0,FieldRun1,SRS664982,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524445,116.0,20266.0,FieldRun1,SRS664984,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524446,12.0,27107.0,GHRun1,SRS665062,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524447,140.0,24549.0,GHRun1,SRS665064,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524448,213.0,48123.0,FieldRun1,SRS664985,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524449,220.0,23243.0,GHRun1,SRS665066,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524450,134.0,34048.0,FieldRun1,SRS664986,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524451,82.0,25135.0,GHRun1,SRS665068,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524452,7.0,24281.0,GHRun1,SRS665069,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524453,29.0,18245.0,FieldRun1,SRS664987,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524454,136.0,93790.0,GHRun1,SRS665071,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524455,107.0,36613.0,FieldRun1,SRS664988,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524456,82.0,54321.0,FieldRun1,SRS664990,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524457,170.0,56634.0,GHRun1,SRS665073,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524458,1.0,54576.0,GHRun1,SRS665107,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524459,198.0,58309.0,GHRun1,SRS665109,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524460,0.0,52211.0,GHRun1,SRS665111,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524461,76.0,32456.0,GHRun1,SRS665112,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524462,194.0,49864.0,GHRun2,SRS665116,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524463,21.0,30287.0,GHRun1,SRS665119,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524464,0.0,48358.0,GHRun1,SRS665122,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524465,212.0,29725.0,GHRun1,SRS665124,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524466,35.0,33420.0,GHRun1,SRS665127,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524467,6.0,68010.0,GHRun1,SRS665129,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524468,159.0,47497.0,GHRun1,SRS665131,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524469,28.0,39124.0,GHRun1,SRS665133,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524471,8.0,38912.0,GHRun1,SRS665137,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524472,138.0,40985.0,GHRun1,SRS665139,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524473,21.0,26260.0,FieldRun1,SRS664991,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524474,13.0,33443.0,GHRun1,SRS665141,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524475,1.0,34233.0,GHRun1,SRS665143,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524476,91.0,31706.0,FieldRun1,SRS664992,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524477,160.0,92312.0,GHRun1,SRS665145,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524478,108.0,36431.0,FieldRun1,SRS664995,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524479,28.0,23555.0,GHRun1,SRS665147,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524480,56.0,25666.0,FieldRun1,SRS664996,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524481,6.0,30887.0,GHRun1,SRS665150,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524540,405.0,35133.0,FieldRun1,SRS664998,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524541,156.0,51823.0,GHRun1,SRS665152,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524542,306.0,38099.0,FieldRun1,SRS665000,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524559,0.0,41877.0,GHRun1,SRS665154,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524560,102.0,48995.0,GHRun1,SRS665156,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524561,44.0,32621.0,GHRun1,SRS665158,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524562,330.0,34134.0,FieldRun1,SRS665001,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524563,4.0,27545.0,GHRun1,SRS665160,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524564,218.0,41185.0,FieldRun1,SRS665002,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524565,161.0,30669.0,GHRun1,SRS665163,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524566,142.0,28938.0,FieldRun1,SRS665004,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524567,34.0,26331.0,FieldRun1,SRS665005,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524568,74.0,33681.0,GHRun1,SRS665165,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524569,505.0,35578.0,FieldRun1,SRS665007,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524570,5.0,45494.0,GHRun1,SRS665168,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524571,263.0,26264.0,FieldRun1,SRS665009,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524572,69.0,34665.0,GHRun1,SRS665170,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524573,221.0,37694.0,FieldRun1,SRS665010,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524574,10.0,40633.0,GHRun1,SRS665173,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524575,289.0,37120.0,FieldRun1,SRS665012,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524576,180.0,22963.0,FieldRun1,SRS665014,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524577,88.0,31289.0,GHRun1,SRS665176,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524578,127.0,17501.0,FieldRun1,SRS665017,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524579,12.0,48097.0,GHRun1,SRS665182,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524580,233.0,76270.0,GHRun1,SRS665184,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524581,885.0,55602.0,FieldRun1,SRS665018,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524582,455.0,54119.0,FieldRun1,SRS665020,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524583,327.0,41897.0,FieldRun1,SRS665022,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524584,195.0,22616.0,GHRun1,SRS665186,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524585,1093.0,74009.0,FieldRun1,SRS665023,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524586,479.0,61017.0,FieldRun1,SRS665025,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524587,245.0,60923.0,FieldRun1,SRS665027,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524588,544.0,63644.0,FieldRun1,SRS665029,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524589,87.0,78602.0,GHRun1,SRS665189,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524590,837.0,62785.0,FieldRun1,SRS665030,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524591,134.0,20200.0,GHRun1,SRS665191,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524592,445.0,119516.0,FieldRun1,SRS665032,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524593,107.0,58341.0,FieldRun1,SRS665034,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524594,657.0,110149.0,GHRun1,SRS665193,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524595,318.0,56862.0,FieldRun1,SRS665035,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524596,113.0,26153.0,SAMN02929777,SRS665195,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524597,60.0,63571.0,FieldRun1,SRS665037,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524598,8.0,50706.0,GHRun1,SRS665198,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524599,598.0,65772.0,FieldRun1,SRS665039,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524600,502.0,61445.0,FieldRun1,SRS665040,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524601,255.0,66133.0,GHRun1,SRS665201,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524602,106.0,71710.0,FieldRun1,SRS665042,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524603,124.0,23013.0,GHRun1,SRS665205,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524604,209.0,62020.0,FieldRun1,SRS665045,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524605,159.0,30219.0,GHRun1,SRS665207,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524606,205.0,72189.0,FieldRun1,SRS665047,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524607,97.0,64139.0,GHRun1,SRS665209,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524608,134.0,71190.0,FieldRun1,SRS665048,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524609,300.0,35398.0,GHRun1,SRS665211,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524610,906.0,80790.0,FieldRun1,SRS665050,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524611,269.0,55835.0,GHRun1,SRS665215,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524612,245.0,62156.0,FieldRun1,SRS665052,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524613,79.0,83460.0,FieldRun1,SRS665053,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524614,128.0,33579.0,GHRun1,SRS665218,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524615,54.0,70244.0,GHRun1,SRS665221,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524616,541.0,65627.0,FieldRun1,SRS665054,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524617,182.0,44218.0,GHRun1,SRS665223,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524618,369.0,63225.0,FieldRun1,SRS665056,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524619,100.0,23371.0,GHRun1,SRS665225,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524620,49.0,69430.0,FieldRun1,SRS665058,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524621,22.0,37552.0,GHRun1,SRS665226,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524622,629.0,70922.0,FieldRun1,SRS665060,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524623,387.0,64513.0,GHRun1,SRS665228,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524624,126.0,39284.0,FieldRun1,SRS665061,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524625,332.0,62922.0,GHRun1,SRS665227,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524626,203.0,45589.0,GHRun1,SRS665229,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524627,129.0,50595.0,FieldRun1,SRS665063,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524628,466.0,57241.0,FieldRun1,SRS665065,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524629,241.0,67564.0,GHRun1,SRS665230,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524630,286.0,43485.0,FieldRun1,SRS665067,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524631,55.0,18109.0,GHRun1,SRS665231,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524632,217.0,62117.0,FieldRun1,SRS665070,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524633,276.0,93312.0,GHRun1,SRS665232,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524634,642.0,62968.0,FieldRun1,SRS665072,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524635,13.0,42006.0,GHRun1,SRS665233,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524636,507.0,68356.0,FieldRun1,SRS665106,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524637,121.0,28177.0,GHRun1,SRS665234,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524638,96.0,59259.0,FieldRun1,SRS665108,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524639,202.0,47728.0,GHRun1,SRS665235,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524640,584.0,107060.0,FieldRun1,SRS665110,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524641,80.0,26841.0,GHRun1,SRS665236,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524642,82.0,69648.0,FieldRun1,SRS665113,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524643,8.0,58336.0,GHRun1,SRS665237,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524644,283.0,62159.0,GHRun1,SRS665238,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524645,118.0,16823.0,FieldRun1,SRS665114,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524646,548.0,89174.0,GHRun1,SRS665239,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524647,243.0,60122.0,FieldRun1,SRS665115,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524648,77.0,13894.0,GHRun1,SRS665240,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524649,92.0,65615.0,FieldRun1,SRS665117,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524650,29.0,8447.0,GHRun1,SRS665241,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524651,541.0,71432.0,FieldRun1,SRS665118,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524652,185.0,24427.0,GHRun1,SRS665242,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524653,381.0,55638.0,FieldRun1,SRS665120,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524654,183.0,20050.0,GHRun1,SRS665243,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524655,28.0,48665.0,GHRun1,SRS665244,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524656,355.0,56837.0,GHRun1,SRS665245,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524657,113.0,63899.0,FieldRun1,SRS665121,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524658,90.0,21084.0,GHRun1,SRS665246,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524659,546.0,60005.0,FieldRun1,SRS665125,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524660,131.0,23668.0,GHRun1,SRS665247,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524661,234.0,67142.0,FieldRun1,SRS665126,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524662,186.0,25219.0,GHRun1,SRS665248,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524663,97.0,57433.0,FieldRun1,SRS665128,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524664,135.0,28286.0,GHRun1,SRS665249,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524665,588.0,77503.0,FieldRun1,SRS665130,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524666,2.0,25672.0,GHRun1,SRS665250,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524668,231.0,60255.0,FieldRun1,SRS665132,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524670,87.0,56329.0,FieldRun1,SRS665135,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524673,435.0,66426.0,FieldRun1,SRS665136,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524674,164.0,79174.0,FieldRun1,SRS665138,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524675,174.0,67898.0,FieldRun1,SRS665140,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524676,176.0,55100.0,GHRun1,SRS665255,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524677,589.0,102315.0,FieldRun1,SRS665142,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524678,203.0,106867.0,GHRun1,SRS665256,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524679,230.0,69793.0,FieldRun1,SRS665144,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524680,107.0,44227.0,GHRun1,SRS665257,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524681,37.0,47137.0,GHRun1,SRS665258,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524682,125.0,79183.0,FieldRun1,SRS665146,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524683,282.0,56230.0,GHRun1,SRS665259,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524684,915.0,58508.0,FieldRun1,SRS665148,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524685,250.0,48238.0,GHRun1,SRS665260,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524686,375.0,65925.0,FieldRun1,SRS665149,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524687,115.0,67023.0,FieldRun1,SRS665151,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524688,923.0,78682.0,FieldRun1,SRS665153,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524689,555.0,65764.0,GHRun1,SRS665261,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524690,284.0,35143.0,FieldRun1,SRS665155,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524691,188.0,74625.0,FieldRun1,SRS665157,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524692,1723.0,89286.0,FieldRun1,SRS665159,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524693,9.0,74421.0,GHRun1,SRS665263,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524694,1029.0,91965.0,FieldRun1,SRS665161,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524695,76.0,35136.0,GHRun1,SRS665262,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524696,196.0,74904.0,FieldRun1,SRS665162,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524697,240.0,48939.0,GHRun1,SRS665268,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524698,109.0,48034.0,GHRun1,SRS665269,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524699,12.0,62144.0,GHRun1,SRS665270,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524700,292.0,62659.0,GHRun1,SRS665271,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524701,193.0,27730.0,GHRun1,SRS665272,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524702,1460.0,96886.0,FieldRun1,SRS665164,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524703,250.0,44639.0,GHRun1,SRS665273,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524704,22.0,93440.0,GHRun1,SRS665274,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524705,246.0,54680.0,GHRun1,SRS665302,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524706,1165.0,85080.0,FieldRun1,SRS665166,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524707,226.0,21112.0,GHRun1,SRS665303,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524708,362.0,79972.0,FieldRun1,SRS665169,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524709,176.0,47736.0,GHRun1,SRS665304,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524710,1747.0,122774.0,FieldRun1,SRS665171,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524711,13.0,66504.0,GHRun1,SRS665305,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524712,861.0,112562.0,FieldRun1,SRS665172,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524713,374.0,54711.0,GHRun1,SRS665306,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524714,286.0,63521.0,FieldRun1,SRS665174,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524715,361.0,60852.0,GHRun1,SRS665307,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524716,1871.0,78939.0,FieldRun1,SRS665177,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524717,253.0,49029.0,GHRun1,SRS665308,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524718,1728.0,119906.0,FieldRun1,SRS665178,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524719,7.0,58568.0,GHRun1,SRS665309,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524720,173.0,98317.0,GHRun1,SRS665310,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524721,469.0,78157.0,FieldRun1,SRS665179,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524722,223.0,63697.0,FieldRun1,SRS665181,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524723,519.0,99096.0,FieldRun1,SRS665183,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524724,271.0,54066.0,FieldRun1,SRS665185,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524725,10.0,68292.0,GHRun1,SRS665311,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524726,243.0,78124.0,FieldRun1,SRS665188,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524727,232.0,53626.0,GHRun1,SRS665312,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524728,164.0,69154.0,FieldRun1,SRS665190,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524729,3.0,93635.0,GHRun1,SRS665313,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524730,284.0,90229.0,FieldRun1,SRS665192,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524731,396.0,105194.0,GHRun1,SRS665314,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524732,97.0,97382.0,FieldRun1,SRS665194,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524733,161.0,26329.0,GHRun1,SRS665315,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524734,82.0,50133.0,FieldRun1,SRS665196,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524735,2.0,50788.0,GHRun1,SRS665316,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524736,41.0,96843.0,FieldRun1,SRS665197,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524737,318.0,34675.0,GHRun1,SRS665320,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524738,686.0,138973.0,FieldRun1,SRS665199,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524739,102.0,45617.0,GHRun1,SRS665321,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524740,48.0,80676.0,FieldRun1,SRS665202,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524741,2.0,69133.0,GHRun1,SRS665322,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524742,389.0,59005.0,GHRun1,SRS665323,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524743,282.0,95412.0,FieldRun1,SRS665204,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524744,217.0,50159.0,GHRun1,SRS665324,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524745,390.0,67921.0,FieldRun1,SRS665206,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524746,22.0,59317.0,GHRun1,SRS665325,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524747,59.0,83516.0,FieldRun1,SRS665208,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524748,235.0,36762.0,GHRun1,SRS665337,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524749,106.0,76619.0,FieldRun1,SRS665212,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524750,66.0,38988.0,GHRun1,SRS665338,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524751,169.0,73549.0,FieldRun1,SRS665214,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524752,126.0,70032.0,FieldRun1,SRS665216,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524753,10.0,58692.0,GHRun1,SRS665339,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524755,89.0,77890.0,FieldRun1,SRS665219,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524756,175.0,39718.0,GHRun1,SRS665340,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524757,108.0,84492.0,FieldRun1,SRS665220,Rice Paddy,Rice Paddy,Rhizosphere,Rice
+SRR1524758,11.0,71749.0,GHRun1,SRS665341,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524759,61.0,73594.0,FieldRun1,SRS665222,Rice Paddy,Rice Paddy,Rhizoplane,Rice
+SRR1524760,148.0,40743.0,GHRun1,SRS665342,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524761,8.0,48892.0,FieldRun1,SRS665224,Rice Paddy,Rice Paddy,Endosphere,Rice
+SRR1524762,73.0,43254.0,GHRun1,SRS665343,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524763,2.0,55544.0,GHRun1,SRS665345,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524764,131.0,41079.0,GHRun,SRS665346,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524766,64.0,45401.0,GHRun1,SRS665347,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524767,161.0,52212.0,GHRun1,SRS665348,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524768,23.0,62785.0,GHRun1,SRS665349,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524769,120.0,38637.0,GHRun1,SRS665350,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524770,13.0,57253.0,GHRun1,SRS665351,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524771,246.0,49374.0,GHRun1,SRS665352,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524772,15.0,55000.0,GHRun1,SRS665353,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524773,2.0,67853.0,GHRun1,SRS665354,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524774,446.0,122410.0,GHRun1,SRS665355,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524775,157.0,62944.0,GHRun1,SRS665356,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524776,5.0,80700.0,GHRun1,SRS665357,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524777,222.0,59161.0,GHRun1,SRS665358,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524778,458.0,92608.0,GHRun1,SRS665359,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524779,5.0,78660.0,GHRun1,SRS665360,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524780,172.0,37660.0,GHRun1,SRS665361,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524781,159.0,56426.0,GHRun1,SRS665362,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524782,28.0,66528.0,GHRun1,SRS665363,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524783,318.0,72035.0,GHRun1,SRS665364,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524784,10.0,77783.0,GHRun1,SRS665365,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524785,515.0,61673.0,GHRun1,SRS665366,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524786,334.0,50162.0,GHRun1,SRS665367,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524787,22.0,62510.0,GHRun1,SRS665368,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524788,268.0,62356.0,GHRun1,SRS665370,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524789,236.0,58616.0,GHRun1,SRS665371,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524790,6.0,57419.0,GHRun1,SRS665372,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524791,282.0,42751.0,GHRun1,SRS665373,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524792,154.0,42943.0,GHRun1,SRS665374,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524793,5.0,49101.0,GHRun1,SRS665375,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524794,190.0,40752.0,GHRun1,SRS665376,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524795,183.0,50193.0,GHRun1,SRS665377,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524796,31.0,37031.0,GHRun1,SRS665379,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524797,245.0,35609.0,GHRun1,SRS665380,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524798,153.0,40419.0,GHRun1,SRS665381,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524799,142.0,39420.0,GHRun1,SRS665382,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524800,30.0,44755.0,GHRun1,SRS665383,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524801,222.0,44819.0,GHRun1,SRS665384,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524802,296.0,50051.0,GHRun1,SRS665385,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524803,212.0,59833.0,GHRun1,SRS665387,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524804,4.0,60291.0,GHRun1,SRS665388,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524805,259.0,34802.0,GHRun1,SRS665389,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524806,180.0,53824.0,GHRun1,SRS665390,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524807,415.0,50658.0,GHRun1,SRS665391,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524808,623.0,166966.0,GHRun1,SRS665392,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524809,86.0,51502.0,GHRun1,SRS665393,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524810,23.0,71889.0,GHRun1,SRS665395,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524811,476.0,123935.0,GHRun1,SRS665396,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524812,9.0,99975.0,GHRun1,SRS665397,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524813,476.0,83704.0,GHRun1,SRS665398,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524814,620.0,148062.0,GHRun1,SRS665400,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524815,112.0,42024.0,GHRun1,SRS665401,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524816,15.0,84015.0,GHRun1,SRS665402,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524817,201.0,108944.0,GHRun1,SRS665403,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524818,27.0,120033.0,GHRun1,SRS665404,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524819,478.0,60394.0,GHRun1,SRS665405,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR1524820,179.0,49935.0,GHRun1,SRS665406,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524821,4.0,64717.0,GHRun1,SRS665407,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524822,375.0,69624.0,GHRun1,SRS665408,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524823,28.0,43034.0,GHRun1,SRS665409,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524824,21.0,83917.0,GHRun1,SRS665410,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR1524825,437.0,61640.0,GHRun1,SRS665411,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR1524826,117.0,37077.0,GHRun1,SRS665412,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR1524827,23.0,37024.0,GHRun1,SRS665413,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107428,116.0,67249.0,JE.TC.10,SRS830424,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107429,57.0,85650.0,JE.TC.11,SRS995463,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107430,65.0,66572.0,JE.TC.12,SRS995484,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107431,3.0,69054.0,JE.TC.13,SRS995487,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107432,232.0,60019.0,JE.TC.14,SRS995490,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107433,12.0,74303.0,JE.TC.15,SRS995491,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107434,4.0,83495.0,JE.TC.16,SRS995493,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107435,0.0,101243.0,JE.TC.17,SRS995495,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107436,25.0,79671.0,JE.TC.18,SRS995496,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107437,125.0,79057.0,JE.TC.19,SRS995498,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107438,175.0,104567.0,JE.TC.20,SRS995500,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107439,336.0,64869.0,JE.TC.21,SRS995504,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107440,76.0,57034.0,JE.TC.22,SRS995502,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107441,75.0,79465.0,JE.TC.23,SRS995505,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107442,72.0,118947.0,JE.TC.24,SRS995507,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107443,2.0,66876.0,JE.TC.25,SRS995506,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107444,108.0,73079.0,JE.TC.26,SRS995510,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107445,3.0,67755.0,JE.TC.27,SRS995508,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107446,2.0,59262.0,JE.TC.28,SRS995514,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107447,1.0,61008.0,JE.TC.29,SRS995512,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107448,0.0,64140.0,JE.TC.30,SRS995516,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107454,243.0,62153.0,JE.TC.31,SRS995515,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107455,158.0,59930.0,JE.TC.32,SRS995518,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107456,122.0,38507.0,JE.TC.33,SRS995520,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107457,34.0,78561.0,JE.TC.34,SRS995522,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107458,35.0,112748.0,JE.TC.35,SRS995523,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107459,16.0,78433.0,JE.TC.36,SRS995527,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107460,4.0,50693.0,JE.TC.37,SRS995525,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107461,10.0,67243.0,JE.TC.38,SRS995528,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107462,0.0,91948.0,JE.TC.4,SRS995530,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107463,0.0,72326.0,JE.TC.40,SRS995534,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107464,2.0,70716.0,JE.TC.41,SRS995533,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107465,232.0,71452.0,JE.TC.42,SRS995531,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107466,165.0,95247.0,JE.TC.43,SRS995537,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107467,454.0,101413.0,JE.TC.44,SRS995536,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107468,98.0,77139.0,JE.TC.45,SRS995538,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107469,72.0,61688.0,JE.TC.46,SRS995541,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107470,1.0,84197.0,JE.TC.47,SRS995540,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107471,70.0,59452.0,JE.TC.48,SRS995547,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107472,38.0,59896.0,JE.TC.49,SRS995544,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107473,0.0,64407.0,JE.TC.5,SRS995542,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107474,91.0,53058.0,JE.TC.50,SRS995543,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107475,25.0,87545.0,JE.TC.51,SRS995549,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107476,10.0,64314.0,JE.TC.52,SRS995548,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107477,17.0,74539.0,JE.TC.53,SRS995551,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107478,4.0,93145.0,JE.TC.54,SRS995555,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107479,0.0,82540.0,JE.TC.55,SRS995557,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107480,1.0,75247.0,JE.TC.56,SRS995556,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107481,283.0,80662.0,JE.TC.57,SRS995565,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107482,288.0,76975.0,JE.TC.58,SRS995569,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107483,155.0,41851.0,JE.TC.59,SRS995566,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107484,110.0,42987.0,JE.TC.60,SRS995572,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107485,84.0,42414.0,JE.TC.61,SRS995578,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107486,0.0,134208.0,JE.TC.6,SRS995573,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107487,106.0,45225.0,JE.TC.62,SRS995575,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107488,7.0,46456.0,JE.TC.63,SRS995577,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107489,35.0,54366.0,JE.TC.64,SRS995576,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107490,48.0,106986.0,JE.TC.65,SRS995579,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107491,0.0,79925.0,JE.TC.66,SRS995581,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107492,3.0,62647.0,JE.TC.67,SRS995580,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107493,1.0,79553.0,JE.TC.68,SRS995590,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107494,253.0,51608.0,JE.TC.69,SRS995589,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107495,233.0,118952.0,JE.TC.7,SRS995588,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107496,287.0,51271.0,JE.TC.70,SRS995587,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107498,136.0,41762.0,JE.TC.72,SRS995584,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107499,82.0,67868.0,JE.TC.73,SRS995583,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107500,73.0,37857.0,JE.TC.74,SRS995592,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizosphere,Oryza sativa
+SRR2107501,57.0,56691.0,JE.TC.75,SRS995593,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107502,39.0,45221.0,JE.TC.76,SRS995594,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107503,21.0,53909.0,JE.TC.77,SRS995595,Greenhouse Soil,Transported Soil in the Greenhouse,Rhizoplane,Oryza sativa
+SRR2107504,4.0,84929.0,JE.TC.78,SRS995598,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107505,1.0,94373.0,JE.TC.79,SRS995596,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2107506,217.0,106048.0,JE.TC.8,SRS995599,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107507,5.0,62250.0,JE.TC.80,SRS995602,Greenhouse Soil,Transported Soil in the Greenhouse,Endosphere,Oryza sativa
+SRR2110714,260.0,56924.0,JE.TC.81,SRS995601,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2111742,244.0,54257.0,JE.TC.82,SRS995603,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2112665,401.0,61099.0,JE.TC.83,SRS995605,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2113669,183.0,94259.0,JE.TC.9,SRS995604,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa
+SRR2107497,185.0,44786.0,JE.TC.71,SRS995586,Greenhouse Soil,Transported Soil in the Greenhouse,Bulk_Soil,Oryza sativa

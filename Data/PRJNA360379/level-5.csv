@@ -1,0 +1,3 @@
+index,D_0__Bacteria;D_1__Cyanobacteria;D_2__Oxyphotobacteria;D_3__Chloroplast;__,D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;D_4__Bacillaceae,D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;D_3__Bacillales;__,D_0__Bacteria;D_1__Firmicutes;D_2__Bacilli;__;__,D_0__Bacteria;D_1__Firmicutes;__;__;__,D_0__Bacteria;__;__;__;__,Library_Name,IsolationSource,Relationship_to_oxygen,Type
+SRR5211360,1.0,17760.0,19476.0,2850.0,46265.0,114103.0,OS01,Root,aerobe,Endophytic metagenome
+SRR5211361,1.0,22709.0,5839.0,60623.0,91506.0,58287.0,OS04,Root,aerobe,Endophytic metagenome

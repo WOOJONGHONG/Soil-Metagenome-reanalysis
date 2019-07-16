@@ -1,0 +1,2 @@
+index,D_0__Bacteria;D_1__Acidobacteria,D_0__Bacteria;D_1__Actinobacteria,D_0__Bacteria;D_1__Bacteroidetes,D_0__Bacteria;D_1__Chloroflexi,D_0__Bacteria;D_1__Firmicutes,D_0__Bacteria;D_1__Nitrospirae,D_0__Bacteria;D_1__Planctomycetes,D_0__Bacteria;D_1__Proteobacteria,D_0__Bacteria;__,D_0__Eukaryota;D_1__Opisthokonta,D_0__Eukaryota;__,Unassigned;__,Depth,Elevation,Environment_biome,Environment_material,Treatment
+SRR1291081,64.0,3610.0,2.0,5.0,1.0,2.0,1.0,72590.0,2879.0,390.0,3377.0,26772.0,10cm,50cm,Rice soil,Soil,"Nitrate, Ammonium"
