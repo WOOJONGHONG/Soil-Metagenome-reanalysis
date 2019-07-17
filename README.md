@@ -16,10 +16,11 @@ We carried out the metagenome analysis using QIIME2 (v. 2018.06) on Ubuntu 16.04
 Assume you want to follow or refer our pipe. Please be aware of the instructions below to flow your work smoothly.
 
 
-1. Chekc the version of QIIME2; Most of the command remain unchanged after periodic version update but some are changed. To use our pipe perfectly, please change the command following the new command. 
+1. Check the version of QIIME2; Most of the command remain unchanged after periodic version update but some are changed. To use our pipe perfectly, please change the command following the new command. 
 2. Some pathes on the pipe are not standardized, but specific since this is the pipe we used in our work. So please double check the absolute path to avoid overwritting your analysis result; We commented in the pipe file which path must be written.
 3. Be aware of cores used for each process. We used 25 cores for each process and it is still written in the pipe. Please change it depending on your computer.
 4. The pipe uses pretrained classifier offered by SILVA database (our reference for metagenome is SILVA v.132). We uploaded "train.sh"file for training your own classifier. The primer sequences written in the file are 515F, 806F primer sequence so please edit it if your primer sequence is different.
+
     4-1. If you train your own classifier and plan to use it, please edit the classifier name and path in the pipe command file.
 
 
